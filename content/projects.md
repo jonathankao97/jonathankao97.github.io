@@ -12,7 +12,7 @@ A Wharton Innovation Fund-backed startup I co-founded. Umpcast is a web app for 
 - 5+ paid leagues
 - 300+ users
 
-[Landing Page](http://google.com) &nbsp; [Version 2](http://umpirecast.com) &nbsp; [Github](https://github.com/UmpCast)
+[Landing Page](https://trusting-joliot-c58c87.netlify.app) &nbsp; [Version 2](http://umpirecast.com) &nbsp; [Github](https://github.com/UmpCast)
 
 ---
 
