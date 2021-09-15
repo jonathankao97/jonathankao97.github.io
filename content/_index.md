@@ -15,7 +15,7 @@ I'm a [Management and Technology (M&T)](https://fisher.wharton.upenn.edu) studen
 
 - ⚡ I'm interested in entrepreneurship
 
-- 😄 I tutor high school students
+- 😄 I tutor and mentor high school students
 
 - 💬 Ask me about fantasy football, baseball, or poker
 
