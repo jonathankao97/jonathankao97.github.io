@@ -22,6 +22,8 @@ Tools I use to build server-side code
 
 ## 👷 DevOps
 
+Tools I use to streamline and improve the developer experience
+
 - GitHub Actions
 - Docker, Docker-Compose
 - Kubernetes
