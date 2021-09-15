@@ -15,6 +15,8 @@ I'm a [Management and Technology (M&T)](https://fisher.wharton.upenn.edu) studen
 
 - ⚡ I'm interested in entrepreneurship
 
+- 😄 I tutor high school students
+
 - 💬 Ask me about fantasy football, baseball, or poker
 
 [![Jonathan's Github Stats](https://github-readme-stats.vercel.app/api?username=jonathankao97&count_private=true&theme=default&show_icons=true)](https://github.com/jonathankao97)
