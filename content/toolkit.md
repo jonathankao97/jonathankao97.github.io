@@ -27,6 +27,6 @@ Tools I use to streamline and improve the developer experience
 - GitHub Actions
 - Docker, Docker-Compose
 - Kubernetes
-- Terraform
+- Terraform (Infrastructure as Code)
 - Ansible Secrets Management
 - AWS
