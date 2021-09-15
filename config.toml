@@ -28,7 +28,3 @@ theme = "researcher"
         name = "My Toolkit"
         url = "/toolkit"
         weight = 2        
-    [[menu.main]]
-        name = "About Me"
-        url = "/about"
-        weight = 3
