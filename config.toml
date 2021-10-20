@@ -27,4 +27,8 @@ theme = "researcher"
     [[menu.main]]
         name = "My Toolkit"
         url = "/toolkit"
-        weight = 2        
+        weight = 2
+    [[menu.main]]        
+        name = "Resume"
+        url = "/swe_2021.pdf"       
+        weight = 3
