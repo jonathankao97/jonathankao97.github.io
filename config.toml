@@ -28,11 +28,3 @@ theme = "researcher"
         name = "My Toolkit"
         url = "/toolkit"
         weight = 2
-    [[menu.main]]        
-        name = "Software Resume"
-        url = "/swe_2021.pdf"       
-        weight = 3
-    [[menu.main]]
-        name = "Trading Resume"
-        url = "/trading_2021.pdf"
-        weight = 4
